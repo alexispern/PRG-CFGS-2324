@@ -304,7 +304,7 @@ String numericString = switch (entero) {
     case 1, 3, 5, 7, 9 -> "impar";
     case 2, 4, 6, 8, 10 -> "par";
     default -> "error";
-};
+}
 System.out.println(numericString); //impar
 ```
 
