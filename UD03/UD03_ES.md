@@ -362,7 +362,7 @@ Estas y otras preguntas tendrán su respuesta en cuanto analicemos cada una de e
 
 > ### Estudia cada tipo de estructura repetitiva, conoce su funcionamiento y podrás llegar a la conclusión de que algunos de estos bucles son equivalentes entre sí. Un mismo problema, podrá ser resuelto empleando diferentes tipos de bucles y obtener los mismos resultados. 
 
-## Estructura `for`
+## Estructura `for`.
 
 Hemos indicado anteriormente que el bucle `for` es un bucle controlado por contador. Este tipo de bucle tiene las siguientes características:
 
